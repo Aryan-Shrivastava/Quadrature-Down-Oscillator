@@ -1,0 +1,13 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\Aryan Shrivastava\Desktop\course_project\LTSPICE\Mixer\Mixer_only (1).asc
+Start Time: Mon Apr 22 13:05:09 2024
+Ignoring BSIM parameter XL
+Ignoring BSIM parameter XW
+solver = Normal
+Maximum thread count: 16
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.243 seconds.
+
